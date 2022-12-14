@@ -1,0 +1,20 @@
+id: A557A9CD1
+title: Toh_154-The_Questions_of_the_Naga_King_Sagara_(2)-v2
+type: translation
+pechas:
+- IA7B8BC40
+- I66DB5DC3
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-058-003
+  eft-text-version: 1.1.5 2020
+  title: Toh_154-The_Questions_of_the_Naga_King_Sagara_(2)-v2
+alignment_to_base:
+  IA7B8BC40/3B37: 696A
+  I66DB5DC3/E931: 696A
